@@ -20,14 +20,24 @@ Not all votes are useful for a wide range of possibilites, so we will only consi
 
 ![vine_rev](https://user-images.githubusercontent.com/89816213/150699410-16cec1ea-0ce7-4031-8ba0-d7095e08f2b5.PNG)
 
-
+This image shows the filter to consider only those reviews that come from the Vine program.
 
 ![vine_five_stars](https://user-images.githubusercontent.com/89816213/150699411-82158bb6-3694-4ea5-9eae-c4e4ffb951e5.PNG)
 
+The number of Vine reviews is quite low, and it might not be significant. Eventhough, ther seems to be no proof that beeing involved in the vine program causes a bias towards positive ratings.
 
 ### Non Vine Reviews
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
-Summary:
 
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
+![non_vine_rev](https://user-images.githubusercontent.com/89816213/150699660-a638fece-2797-4412-a1c3-73185ef33024.PNG)
+
+Just as we did with the Vine reviews, we filtered all reviews not related to the Vine program to set a parameter of how good the ratings are when not invovling incentives.
+
+![non_vine_five_stars](https://user-images.githubusercontent.com/89816213/150699663-a9a79ccb-d8c3-4901-9a9c-3f1f84bb96ac.PNG)
+
+The non Vine related ratings are considerably higher than those from the paid program.
+
+## Summary
+
+If we consider both datasets, we might think that the premise might actually be the opposite to the one we first stated, since non-paid clients givee higher ratings, this could lead to think that the incentive makes buyers more incisive.
+
+An additional analysis to clear all doubt could  involve integrating a new dataset and compare Vine and non Vine related ratings with their match on the other dataset, if there is any similarity we could think that ratings could be affected, though not necessarily possitively biased.
